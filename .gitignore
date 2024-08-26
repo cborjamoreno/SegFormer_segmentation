@@ -4,8 +4,7 @@ __pycache__/
 *$py.class
 
 SUIM/
-SUIM_sam/
-SUIM_superpixel/
+SUIM_*/
 test_predictions_*/
 
 
