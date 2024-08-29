@@ -3,9 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-SUIM/
-SUIM_*/
-test_predictions_*/
+SUIM/*/
+MosaicsUCSD/*/
 
 
 # C extensions
@@ -13,6 +12,7 @@ test_predictions_*/
 
 # SAM pretrained models
 *.pth
+*.zip
 
 # Distribution / packaging
 .Python
